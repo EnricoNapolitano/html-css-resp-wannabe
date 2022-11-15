@@ -159,6 +159,10 @@ img {
     .steps .col {
         width: 90%;
     }
+    .why-us {
+        background-color: rgb(34,34,34);
+        margin: 0;
+    }
     .why-us .col-left {
         width: 75%;
         margin-bottom: 50px;
